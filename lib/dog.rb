@@ -26,4 +26,4 @@ end
 
 lassie = Dog.new
 lassie.name = "Lassie"
->>>>>>> a6e15914dd9165456be3eadfb2b84474fd7ff3a5
+>>>>> a6e15914dd9165456be3eadfb2b84474fd7ff3a5
